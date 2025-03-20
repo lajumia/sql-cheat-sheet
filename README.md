@@ -32,9 +32,9 @@
   - MODULE
 
 - **Bitwise operators**
-   - & Bitwise AND
-   - | Bitwise OR
-   - ^ Bitwise exclusive OR
+   - (&) Bitwise AND
+   - (|) Bitwise OR
+   - (^) Bitwise exclusive OR
 
 
 - **Comparision operators**
