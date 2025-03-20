@@ -12,7 +12,7 @@
 
 # Operators
 - **Logical operators**
-- - AND
+  - AND
   - OR
   - NOT
   - ALL
@@ -25,14 +25,14 @@
 
     
 - **Arithmetic operators**
-- - ADD
+  - ADD
   - SUBSTRACT
   - MULTIPLY
   - DIVIDE
   - MODULE
 
  - **Bitwise operators**
- - - & Bitwise AND
+   - & Bitwise AND
    - | Bitwise OR
    - ^ Bitwise exclusive OR
 
