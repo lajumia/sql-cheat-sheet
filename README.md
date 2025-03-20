@@ -10,6 +10,7 @@
 - JSON
 
 
+
 # Operators
 - **Logical operators**
   - AND
@@ -22,8 +23,7 @@
   - IN
   - LIKE
   - SOME
-
-    
+ 
 - **Arithmetic operators**
   - ADD
   - SUBSTRACT
@@ -36,12 +36,28 @@
    - (|) Bitwise OR
    - (^) Bitwise exclusive OR
 
-
 - **Comparision operators**
    - (=) Equal to
    - (>) Greater than
    - (>=) Greater than or equal to
    - (<=) Less than or equal to
    - (<>) Not equal to 
+
+# Data Manipulation Language (DML) StatementS#
+  - INSERT
+  - UPDATE
+  - DELETE
+  - MERGE
+  - CALL
+  - EXPLAIN PLAN
+  - LOCK
+
+# Data Definition Language (DDL) StatementS#
+- Create
+- ALTER
+- DROP
+- TRUNCATE
+
   
+
  
