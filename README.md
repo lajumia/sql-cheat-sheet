@@ -1,6 +1,6 @@
 # SQL Cheat Sheet (Quick Reference)
 
-# Data Types
+## Data Types
 - Int
 - Varchar
 - Datetime
@@ -11,7 +11,7 @@
 
 
 
-# Operators
+## Operators
 - **Logical operators**
   - AND
   - OR
@@ -43,7 +43,7 @@
    - (<=) Less than or equal to
    - (<>) Not equal to 
 
-# Data Manipulation Language (DML) StatementS#
+## Data Manipulation Language (DML) StatementS ##
   - INSERT
   - UPDATE
   - DELETE
@@ -52,7 +52,7 @@
   - EXPLAIN PLAN
   - LOCK
 
-# Data Definition Language (DDL) StatementS#
+## Data Definition Language (DDL) StatementS ##
 - Create
 - ALTER
 - DROP
