@@ -31,13 +31,17 @@
   - DIVIDE
   - MODULE
 
- - **Bitwise operators**
+- **Bitwise operators**
    - & Bitwise AND
    - | Bitwise OR
    - ^ Bitwise exclusive OR
 
 
 - **Comparision operators**
-    
-
+   - =Equal to
+   - >Greater than
+     >=Greater than or equal to
+     <=Less than or equal to
+     <>Not equal to 
+  
  
