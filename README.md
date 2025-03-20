@@ -43,7 +43,7 @@
    - (<=) Less than or equal to
    - (<>) Not equal to 
 
-## Data Manipulation Language (DML) StatementS ##
+## Data Manipulation Language (DML) Statements ##
   - INSERT
   - UPDATE
   - DELETE
@@ -52,12 +52,24 @@
   - EXPLAIN PLAN
   - LOCK
 
-## Data Definition Language (DDL) StatementS ##
+## Data Definition Language (DDL) Statements ##
 - Create
 - ALTER
 - DROP
 - TRUNCATE
 
-  
+## Data Control Language (DCL) Statements ##  
+- GRANT
+- REVOKE
+
+## Transaction  Control Language (TCL) Statements ##  
+- COMMIT
+- SAVEPOINT
+- ROLLBACK
+- SET TRANSECTION
+- SET CONSTRAINT
+
+##  Data Query Language (DQL) Statements ##  
+
 
  
