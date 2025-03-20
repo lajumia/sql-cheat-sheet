@@ -71,5 +71,6 @@
 
 ##  Data Query Language (DQL) Statements ##  
 
+<img src="[https://github.com/lajumia/sql-cheat-sheet/blob/main/dql.png]" alt="Logo" width="300" />
 
  
