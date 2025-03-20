@@ -38,10 +38,10 @@
 
 
 - **Comparision operators**
-   - =Equal to
-   - >Greater than
-   - >=Greater than or equal to
-   - <=Less than or equal to
-   - <>Not equal to 
+   - (=) Equal to
+   - (>) Greater than
+   - (>=) Greater than or equal to
+   - (<=) Less than or equal to
+   - (<>) Not equal to 
   
  
